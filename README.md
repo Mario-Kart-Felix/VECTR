@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="media/VECTR_logo_orange.svg" width="65%" height="65%">
+  <img src="media/vectr-logo-bl.svg" width="65%" height="65%">
 </p>
 
 VECTR documentation can be found here:
 [https://docs.vectr.io](https://docs.vectr.io)
+
+VECTR Community Discord Channel:
+[https://discord.gg/2FRd8zf728](https://discord.gg/2FRd8zf728)
 
 VECTR is a tool that facilitates tracking of your red and blue team testing activities to measure detection and prevention capabilities across different attack scenarios.  VECTR provides the ability to create assessment groups, which consist of a collection of Campaigns and supporting Test Cases to simulate adversary threats.  Campaigns can be broad and span activity across the kill chain, from initial compromise to privilege escalation and lateral movement and so on, or can be a narrow in scope to focus on specific detection layers, tools, and infrastructure.  VECTR is designed to promote full transparency between offense and defense, encourage training between team members, and improve detection & prevention success rate across the environment.   
 
@@ -22,18 +25,19 @@ VECTR is focused on common indicators of attack and behaviors that may be carrie
 
 ### Feature Breakdowns By Release
 
-[VECTR v6.2.0 Feature Breakdown](https://github.com/SecurityRiskAdvisors/VECTR/blob/master/media/VECTR%20v6_2_0%20Feature%20Breakdown.pdf)
+[VECTR v8.0.0 Feature Breakdown](https://github.com/SecurityRiskAdvisors/VECTR/blob/master/media/VECTR%20v8_0_0%20Feature%20Breakdown.pdf)
 
 ## Team
 LEAD PROGRAMMERS:
 * Carl Vonderheid
 * Galen Fisher
+* Daniel Hong
 
 PROGRAMMERS:
-* Daniel Hong
 * Andrew Scott
 * Patrick Hislop
 * Dan Guzek
+* Zara Gunner
 * Nick Galante
 
 DESIGN & REQUIREMENTS:
@@ -41,6 +45,7 @@ DESIGN & REQUIREMENTS:
 
 DEV OPS:
 * Paul Spencer
+* Ryan Fortin
 
 GRAPHIC DESIGN & MARKETING:
 * Doug Webster
