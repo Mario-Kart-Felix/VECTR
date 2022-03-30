@@ -2,6 +2,9 @@
   <img src="media/vectr-logo-bl.svg" width="65%" height="65%">
 </p>
 
+
+####
+
 VECTR documentation can be found here:
 [https://docs.vectr.io](https://docs.vectr.io)
 
@@ -36,9 +39,11 @@ LEAD PROGRAMMERS:
 PROGRAMMERS:
 * Andrew Scott
 * Patrick Hislop
+* Nick Galante
 * Dan Guzek
 * Zara Gunner
-* Nick Galante
+* Noel Leahy
+* James Geraghty
 
 DESIGN & REQUIREMENTS:
 * Phil Wainwright
